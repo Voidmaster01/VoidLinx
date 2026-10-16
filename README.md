@@ -26,7 +26,7 @@ Every player needs all of these:
 - **FNAF Online Multiplayer 0.9.6-alpha**
 - **MelonLoader 0.7.3** installed into the game
 - **Steam** open and signed in
-- These files in the game folder:
+- These files in the game folder (the setup or the zip from **Installing** below puts them there for you):
 
 | File | Where it goes |
 |---|---|
@@ -41,9 +41,13 @@ Everyone in a room must be on the **same game version**. If yours is different, 
 ## Installing
 
 1. Install **MelonLoader 0.7.3** into the game, then start the game once and close it.
-2. Copy the three files from the table above into their folders.
+2. Put the VoidLinx files in the game folder. Pick one of these two ways:
+   - **Run the setup.** Download `VoidLinx-1.1.0-Setup.exe` and double-click it. If it isn't inside the game folder, it asks you to pick the game's `.exe`. It puts the three files in the right folders and removes old `VoidSteam.dll` and `VoidTalk.dll` files from `Mods`, which clash with VoidLinx.
+   - **Extract the zip yourself.** Download `VoidLinx-1.1.0.zip` and extract it into the game folder, the one that holds `FNAF Online Multiplayer.exe`. The files land in the folders from the table above. Delete any old `VoidSteam.dll` or `VoidTalk.dll` from `Mods`. Copying the three files by hand works the same way.
 3. Open Steam and sign in.
 4. Start the game. A short **"LOADING VOIDLINX"** bar at the bottom of the screen means the mod is running.
+
+> Windows may say **"Windows protected your PC"** when you start the setup, because the file isn't code-signed. Click **More info**, then **Run anyway**. If you'd rather not, use the zip.
 
 ---
 
