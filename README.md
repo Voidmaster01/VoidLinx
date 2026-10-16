@@ -101,6 +101,7 @@ Most players never need to change anything. If you want to, close the game and o
 | Problem | Try this |
 |---|---|
 | "Steam is not running" | Open Steam, sign in, then restart the game. |
+| "Steam is not running" | Check if one is setup with administrator, then make sure the other is running with or without it as well |
 | "steam_api64.dll is missing" | Put the **64-bit** `steam_api64.dll` next to the game's `.exe`. |
 | No loading bar, nothing happens | Check that MelonLoader 0.7.3 is installed and `VoidSteam.dll` is in `Mods`. |
 | Friend can't join | Make sure you're both on the same game version, the code is typed correctly, and the room isn't full (5 players max). |
